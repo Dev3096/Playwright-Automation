@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jun 01 10:59:17 CDT 2023","Thu Jun 01 10:59:29 CDT 2023","12809","","","","","","PlaceOrderAPI",""
+"failed","Thu Jun 01 10:59:03 CDT 2023","Thu Jun 01 10:59:16 CDT 2023","12695","","","","","","@Web More tests",""
+"passed","Thu Jun 01 10:59:23 CDT 2023","Thu Jun 01 10:59:48 CDT 2023","25083","","","","","","PlaceOrder",""
+"passed","Thu Jun 01 10:59:05 CDT 2023","Thu Jun 01 10:59:16 CDT 2023","10863","","","","","","Window handles",""
+"passed","Thu Jun 01 10:58:47 CDT 2023","Thu Jun 01 10:59:01 CDT 2023","14161","","","","","","First Playwright test",""
+"passed","Thu Jun 01 10:59:01 CDT 2023","Thu Jun 01 10:59:05 CDT 2023","3905","","","","","","UI Controls",""
+"passed","Thu Jun 01 10:59:16 CDT 2023","Thu Jun 01 10:59:49 CDT 2023","33498","","","","","","PlaceOrder",""
