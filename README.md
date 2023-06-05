@@ -21,4 +21,4 @@ JavaScript Fundamentals: Alongside Playwright, I have acquired a strong understa
 
 A big thank you to the instructors for their invaluable guidance and support throughout the course. I am also grateful for the collaboration and shared experiences with fellow learners, which have enriched my learning journey.
 
-I am excited to apply my Playwright automation skills to drive quality and efficiency in software testing. Let's connect and explore how Playwright can benefit your organization! Feel free to reach out to me at [email protected]
+I am excited to apply my Playwright automation skills to drive quality and efficiency in software testing. 
